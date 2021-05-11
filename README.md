@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
@@ -33,18 +29,19 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 
 ### Other Languages I know
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mduzgunn&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mduzgunn&theme=highcontrast&show_icons=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mduzgunn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
