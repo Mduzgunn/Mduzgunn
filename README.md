@@ -1,8 +1,10 @@
 
 ---
-<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-
+<p> 
+ <a href="https://www.linkedin.com/in/melih-d%C3%BCzg%C3%BCn-177a8419a/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+</p>
 
  
  🌱 I’m planning for a Project **Advanced Chat App**.
