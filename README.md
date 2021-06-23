@@ -1,11 +1,4 @@
 
----
-<p> 
- <a href="https://www.linkedin.com/in/melih-d%C3%BCzg%C3%BCn-177a8419a/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
-</p>
-
  
  🌱 I’m planning for a Project **Advanced Chat App**.
  
@@ -35,6 +28,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mduzgunn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+ </div
 
 
